@@ -1,0 +1,2 @@
+# Comentários sobre Obsolescências
+
